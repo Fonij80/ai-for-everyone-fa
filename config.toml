@@ -1,0 +1,11 @@
+[languages]
+  [languages.en]
+    title = "AI for Everyone"
+    weight = 1
+    contentDir = "content/en"
+    
+  [languages.fa]
+    title = "هوش مصنوعی برای همه"
+    weight = 2
+    contentDir = "content/fa"
+    languageDirection = "rtl"
